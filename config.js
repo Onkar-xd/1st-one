@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'My final work to you wanna see it? ',
     btnYes: 'Yea ig',
     btnNo: 'NO sybau',
-    question: 'Well then off u go',
-    btnReply: 'type anythin here',
-    reply: 'Tralalelo Tralala',
+    question: 'Damn No Way',
+    btnReply: 'bet',
+    reply: 'okay',
     mess: 'Am so sorry',
-    messDesc: 'Type anything u want below',
-    btnAccept: 'Tralelo Tralala',
+    messDesc: 'Tap the heart on screen once you will be redirected <3',
+    btnAccept: ' and ye wait for the message to appear',
     messLink: 'https://jasminee.vercel.app/' //link mess của các bạn. VD: https://jasminee.vercel.app/
 }
