@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Damn No Way',
     btnReply: 'bet',
     reply: 'okay',
-    mess: 'Am so sorry',
-    messDesc: 'Tap the heart on screen once you will be redirected <3',
+    mess: 'Hope we meet down the road someday again <3',
+    messDesc: 'Tap the heart on screen once you will be redirected',
     btnAccept: ' and ye wait for the message to appear',
     messLink: 'https://jasminee.vercel.app/' //link mess của các bạn. VD: https://jasminee.vercel.app/
 }
